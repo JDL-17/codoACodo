@@ -4,4 +4,5 @@
 #Mas mods 4.
 #Mas mods 5.
 #Mas mods 6.
-#Mod 7 en curso.
+#Mod 7 lista.
+#Mod 8.
